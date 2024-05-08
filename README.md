@@ -20,12 +20,14 @@
 
 ## Iniciar entorno de práctica
 
-- Instalar dependencias con [npm](https://nodejs.org/en/download):
+1. Instalar [Python](https://www.python.org/downloads/)
+
+2. Instalar dependencias con [npm](https://nodejs.org/en/download):
 ```bash
 npm install
 ```
 
-- Iniciar:
+3. Iniciar:
 ```bash
 npm run dev
 ```
