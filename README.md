@@ -17,3 +17,15 @@
   - [ ] Ejercicio 10
   - [ ] Ejercicio 11
   - [ ] Ejercicio 12
+
+## Iniciar entorno de práctica
+
+- Instalar dependencias con [npm](https://nodejs.org/en/download):
+```bash
+npm install
+```
+
+- Iniciar:
+```bash
+npm run dev
+```
